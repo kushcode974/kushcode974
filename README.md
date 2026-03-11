@@ -43,9 +43,7 @@
 
 ## 🔗 Connect With Me
 
-![LinkedIn](https://linkedin.com/in/kush-pandya-a00a1033b)
-
-![Email](mailto:kushpandya0201@gmail.com)
+<p align="left"> <a href="https://linkedin.com/in/kush-pandya-a00a1033b" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/> </a> <a href="mailto:kushpandya0201@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/> </a> </p>
 
 ---
 
