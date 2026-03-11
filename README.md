@@ -11,7 +11,7 @@
 -  Exploring **Cybersecurity and System Fundamentals**
 -  Interested in **AI, Security, and Software Development**
 -  Building projects to improve **problem-solving and coding skills**
--  Constantly learning and experimenting with new technologies
+-  Constantly learning , building and experimenting new productivity systems
 
 ---
 
@@ -27,22 +27,8 @@
 ## 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,linux,git,github,vscode" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-![Kush's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushcode974&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kushcode974&theme=tokyonight)
-
----
-
-## 📈 Contribution Activity
-
-[![Kush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kushcode974&theme=react-dark)](https://github.com/kushcode974)
 
 ---
 
