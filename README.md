@@ -43,9 +43,9 @@
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://linkedin.com/in/kush-pandya-a00a1033b)
+![LinkedIn](https://linkedin.com/in/kush-pandya-a00a1033b)
 
-[![Email](mailto:kushpandya0201@gmail.com)
+![Email](mailto:kushpandya0201@gmail.com)
 
 ---
 
