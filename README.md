@@ -27,7 +27,7 @@
 ## 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,python,linux,git,github,vscode" />
 </p>
 
 ---
