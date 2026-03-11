@@ -48,7 +48,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kushcode974/kushcode974/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
