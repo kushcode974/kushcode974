@@ -11,7 +11,7 @@
 -  Exploring **Cybersecurity and System Fundamentals**
 -  Interested in **AI, Security, and Software Development**
 -  Building projects to improve **problem-solving and coding skills**
--  Constantly learning , building and experimenting new productivity systems
+-  Constantly learning , building and experimenting new **Productivity Systems**
 
 ---
 
