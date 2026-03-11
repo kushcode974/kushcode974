@@ -43,10 +43,10 @@
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-KushPandya-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kush-pandya-a00a1033b)
+[![LinkedIn](https://linkedin.com/in/kush-pandya-a00a1033b)
 
-[![Email](https://img.shields.io/badge/Email-kushpandya0201%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kushpandya0201@gmail.com)
+[![Email](mailto:kushpandya0201@gmail.com)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=kushcode974&color=blue)
+
