@@ -53,7 +53,7 @@
 ---
 ## 🌐 Portfolio
 
-[Visit My Portfolio](https://my-portfolio-one-beta-67.vercel.app)
+[Visit My Portfolio](https://kushpandya.vercel.app)
 
 ## 🔗 Connect With Me
 
