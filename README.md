@@ -4,18 +4,18 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 First Year **Computer Science Student**
-- 💻 Currently learning **Linux, C++, and Git**
-- 🔐 Exploring **Cybersecurity and System Fundamentals**
-- 🤖 Interested in **AI, Security, and Software Development**
-- 🧠 Building projects to improve **problem-solving and coding skills**
-- 📚 Constantly learning and experimenting with new technologies
+-  First Year **Computer Science Student**
+-  Currently learning **Linux, C++, and Git**
+-  Exploring **Cybersecurity and System Fundamentals**
+-  Interested in **AI, Security, and Software Development**
+-  Building projects to improve **problem-solving and coding skills**
+-  Constantly learning and experimenting with new technologies
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 - Linux fundamentals  
 - C++ programming  
