@@ -6,7 +6,7 @@
 
 ##  About Me
 
--  First Year **Computer Science Student**
+-  Sophomore **Computer Science Student**
 -  Currently learning **Linux, C++, and Git**
 -  Exploring **Cybersecurity and System Fundamentals**
 -  Interested in **AI, Security, and Software Development**
