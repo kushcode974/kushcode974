@@ -8,7 +8,7 @@
 
 # 👨‍💻 About Me
 
-I'm a **Computer Science Engineering student** passionate about building secure and intelligent software systems.
+ Sophomore **Computer Science Engineering student** passionate about building secure and intelligent software systems.
 
 My current learning journey focuses on combining **Cybersecurity**, **Artificial Intelligence**, and **Computer Science fundamentals** to build practical software rather than just academic projects.
 
