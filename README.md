@@ -72,10 +72,8 @@ Features include:
 
 I'm currently building projects focused on:
 
-
 - Network Monitoring Systems
 - Secure Communication Platforms
-
 - Cyber Defense Software
 
 ---
