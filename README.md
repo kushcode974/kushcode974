@@ -72,11 +72,10 @@ Features include:
 
 I'm currently building projects focused on:
 
-- AI-assisted Security Tools
+
 - Network Monitoring Systems
-- Security Dashboards
 - Secure Communication Platforms
-- Vulnerability Assessment Tools
+
 - Cyber Defense Software
 
 ---
